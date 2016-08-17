@@ -34357,7 +34357,7 @@ angular.module('mm.addons.mod_scorm')
                 tracks: tracks
             },
             preSets = {
-                siteurl: $mmSite.getURL(),
+                siteurl: 'http://expertlms.training',
                 wstoken: $mmSite.getToken()
             },
             wsFunction = $mmSite.getCompatibleFunction('mod_scorm_insert_scorm_tracks'),
