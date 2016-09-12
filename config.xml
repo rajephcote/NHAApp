@@ -5,14 +5,14 @@
         id        = "com.skynoodle.mobile"
         versionCode = "2016"
         version   = "1.0.0">
-    <name>Skynoodle Mobile Demo</name>
+    <name>FieldStar LMS</name>
 
     <description>
-        Sumo LMS Mobile app - DEMO
+        FieldStar LMS
     </description>
 
     <author href="http://skynoodle.co.uk" email="info@skynoodle.co.uk">
-        Skynoodle
+        Fieldstar
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
