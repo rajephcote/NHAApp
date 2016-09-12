@@ -1,12 +1,11 @@
 {
-"app_id" : "com.skynoodle.mobile",
+"app_id" : "uk.co.fieldstar.fsapp",
 "versioncode" : "2016",
 "versionname" : "1.0.0",
 "cache_expiration_time" : 300000,
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "http://expertlms.training", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
