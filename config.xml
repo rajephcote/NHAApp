@@ -5,10 +5,10 @@
         id        = "com.nha.nha"
         versionCode = "2016"
         version   = "1.0.0">
-    <name>FieldStar LMS</name>
+    <name>National Hospitality Academy</name>
 
     <description>
-        FieldStar LMS
+        Access the NHA LMS via your phone and tablet and complete your training on the move
     </description>
 
     <author href="http://skynoodle.co.uk" email="info@skynoodle.co.uk">
